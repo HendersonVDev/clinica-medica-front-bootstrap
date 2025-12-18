@@ -1,4 +1,4 @@
-# Clínica — Frontend
+# Clínica — Frontend (https://hendersonvdev.github.io/clinica-medica-front-bootstrap/)
 
 Interface frontend para site institucional de clínica médica, desenvolvida com foco em
 experiência do usuário, organização visual, responsividade e clareza na apresentação
@@ -49,24 +49,22 @@ framework CSS, estrutura semântica e boas práticas de layout.
 ├── index.html
 └── README.md
 Objetivo do Projeto
-Este projeto foi desenvolvido com finalidade de portfólio, visando demonstrar:
+Este projeto foi desenvolvido com finalidade de portfólio.
 
-Construção de interfaces responsivas
+> O link da versão online será disponibilizado via GitHub Pages.
+> Link: https://hendersonvdev.github.io/clinica-medica-front-bootstrap/
 
-Uso eficiente do Bootstrap
+---
 
-Organização de layout e hierarquia visual
+## 👤 Autor
 
-Estruturação semântica do HTML
+Desenvolvido por **Henderson Vieira**  
 
-Padronização de componentes visuais
+---
 
-Como Executar o Projeto
-Não é necessário backend ou instalação de dependências.
+## 📄 Licença
 
-Clone o repositório
-
-Abra o arquivo index.html no navegador
+Este projeto é de uso demonstrativo e educacional.
 
 ou
 
