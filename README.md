@@ -7,9 +7,6 @@ dos serviços de saúde.
 ## Status do Projeto
 ✅ Frontend finalizado
 
-> Este repositório contempla **exclusivamente o frontend** da aplicação.
-
----
 
 ## Visão Geral
 O projeto apresenta um layout moderno e responsivo para uma clínica médica,
